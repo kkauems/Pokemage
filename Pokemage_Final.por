@@ -46,7 +46,7 @@ programa
 		senao se(nivelMagia == 2){
 			tamanhoCirculo = 55
 		}
-		senao{
+		senao{	
 			tamanhoCirculo = 70
 		}
 		
@@ -446,7 +446,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 1799; 
+ * @POSICAO-CURSOR = 1044; 
  * @DOBRAMENTO-CODIGO = [119];
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = {danoFogo, 166, 10, 8};

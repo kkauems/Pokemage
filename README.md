@@ -48,4 +48,6 @@ Kauê Mauri de Souza | [kkauems](https://github.com/kkauems)
 Nicolas Volpato | [NicolasVolpato](https://github.com/NicolasVolpato)
 Vinicius Lourenzoni | [viniciusLourenzoni](https://github.com/viniciusLourenzoni)
 
-
+Tutorado por:
+Guilherme Pasqualin | [pasqualiin](https://github.com/pasqualiin)
+:---: | :---:

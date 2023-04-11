@@ -38,11 +38,14 @@ Desenvolvido na pseudolinguagem portugol através da ferramenta Portugol Studio 
 
 Desenvolvido por: 
 
-Adrieli Balbinot   --- [Adrieli-Balbinot](https://github.com/Adrieli-Balbinot)
-Aline Cardoso dos Santos --- [AlineCardosoDosSantos](https://github.com/AlineCardosoDosSantos)
-Arthur Cristiano --- [ArthurCristiano](https://github.com/ArthurCristiano)
-Eric Ribeiro
-Kauê Mauri de Souza --- [kkauems](https://github.com/kkauems)
-Nicolas Volpato --- [NicolasVolpato](https://github.com/NicolasVolpato)
-Vinicius Lourenzoni --- [viniciusLourenzoni](https://github.com/viniciusLourenzoni)
+Desenvolvedor | Github
+:---: | :---:
+Adrieli Balbinot | [Adrieli-Balbinot](https://github.com/Adrieli-Balbinot)
+Aline Cardoso dos Santos | [AlineCardosoDosSantos](https://github.com/AlineCardosoDosSantos)
+Arthur Cristiano | [ArthurCristiano](https://github.com/ArthurCristiano)
+Eric Ribeiro | ----
+Kauê Mauri de Souza | [kkauems](https://github.com/kkauems)
+Nicolas Volpato | [NicolasVolpato](https://github.com/NicolasVolpato)
+Vinicius Lourenzoni | [viniciusLourenzoni](https://github.com/viniciusLourenzoni)
+
 
